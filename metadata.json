@@ -1,0 +1,5 @@
+{
+  "name": "Sunshine State Distress Scout",
+  "description": "A real estate investment tool utilizing Gemini Vision to analyze property images for distress indicators like roof damage, boarded windows, and vegetation overgrowth to generate a specific Distress Score.",
+  "requestFramePermissions": []
+}
